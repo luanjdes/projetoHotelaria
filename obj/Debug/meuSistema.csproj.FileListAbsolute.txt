@@ -1,0 +1,10 @@
+C:\Users\Windows 11\Desktop\C# 2024\meuSistema\meuSistema\bin\Debug\meuSistema.exe.config
+C:\Users\Windows 11\Desktop\C# 2024\meuSistema\meuSistema\bin\Debug\meuSistema.exe
+C:\Users\Windows 11\Desktop\C# 2024\meuSistema\meuSistema\bin\Debug\meuSistema.pdb
+C:\Users\Windows 11\Desktop\C# 2024\meuSistema\meuSistema\obj\Debug\meuSistema.csproj.AssemblyReference.cache
+C:\Users\Windows 11\Desktop\C# 2024\meuSistema\meuSistema\obj\Debug\meuSistema.frmMeuSistema.resources
+C:\Users\Windows 11\Desktop\C# 2024\meuSistema\meuSistema\obj\Debug\meuSistema.Properties.Resources.resources
+C:\Users\Windows 11\Desktop\C# 2024\meuSistema\meuSistema\obj\Debug\meuSistema.csproj.GenerateResource.cache
+C:\Users\Windows 11\Desktop\C# 2024\meuSistema\meuSistema\obj\Debug\meuSistema.csproj.CoreCompileInputs.cache
+C:\Users\Windows 11\Desktop\C# 2024\meuSistema\meuSistema\obj\Debug\meuSistema.exe
+C:\Users\Windows 11\Desktop\C# 2024\meuSistema\meuSistema\obj\Debug\meuSistema.pdb
